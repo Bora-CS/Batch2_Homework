@@ -4,12 +4,12 @@
 
 1, Clone the repository to your local environment:
 ```
-git clone https://github.com/Muradil-Erkin/TeamBora.git
+git clone https://github.com/Bora-CS/Batch2_Homework.git
 ```
 
 2, Change direction into the project folder:
 ```
-cd Homework
+cd Batch2_Homework
 ```
 
 3, Create your branch:
